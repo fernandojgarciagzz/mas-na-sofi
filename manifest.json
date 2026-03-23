@@ -1,0 +1,23 @@
+{
+  "name": "Más Ná — Para Sofi",
+  "short_name": "Más Ná",
+  "description": "Para Sofi, de Fercho ♥",
+  "start_url": "/mas-na-sofi/",
+  "display": "standalone",
+  "background_color": "#f0ebe3",
+  "theme_color": "#c0392b",
+  "icons": [
+    {
+      "src": "/mas-na-sofi/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/mas-na-sofi/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
